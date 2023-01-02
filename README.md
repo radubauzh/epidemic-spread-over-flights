@@ -4,7 +4,8 @@ Pandemics are known to spread rapidly over the world if no measures are taken to
 
 ![alt text](Pictures/heatmap.png)
 
-Read the full version here: ![PDF](Final_NS__Model___Report.pdf)
+
+[Read the full report here](Final_NS__Model___Report.pdf)
 
 
 
